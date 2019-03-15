@@ -612,7 +612,7 @@ def checkstatus(request, id):
     #     mongoport = data_loaded['mongodb']['ports']
     #     # mysqlstatus = hostcheck.checkMysql(hostip, mysqlport, mysqluser, mysqlpass)
     #     # mongostatus = hostcheck.checkMongo(hostip, mongoport, mongouser, mongopass)
-    #     # mysqlstatus = hostcheck.checkMysql('10.1.203.82', 3306, 'root', 'noida123')
+    #     # mysqlstatus = hostcheck.checkMysql('10.1.203.82', 3306, 'root', 'Dehradun123')
     #     print mysqlstatus
     #     print mongostatus
     
