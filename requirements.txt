@@ -40,7 +40,7 @@ pbr==3.1.1
 pipenv==2018.5.18
 #pkg-resources==0.0.0
 pyasn1==0.4.3
-PyJWT==1.5.3
+PyJWT==2.4.0
 pylint==1.9.2
 pymongo==3.5.1
 python-dateutil==2.7.3
